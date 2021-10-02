@@ -1,4 +1,4 @@
-# TestCodePrimaya
+# Test Code Primaya Toha
 
 PHP Version: 7+
 MySQL Version: 5+
