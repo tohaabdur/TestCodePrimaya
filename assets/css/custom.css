@@ -1,0 +1,63 @@
+body 
+{
+    background-color: #004e75;
+}
+
+.bg-primaya
+{
+    background-color: #004e75;
+    color: white !important;
+}
+
+.bg-fade
+{
+    background-color: #eeeeee !important;
+}
+
+.bg-fade:hover
+{
+    background-color: #cccccc !important;
+}
+
+.order-frame
+{
+    border-radius: 10px !important;
+    min-height: 300px !important;
+    padding: 10px !important;
+    background-color: #eeeeee !important;
+}
+
+.category-frame
+{
+    border-radius: 10px !important;
+    min-height: 50px !important;
+    padding: 10px !important;
+    background-color: #004e75 !important;
+}
+
+.product-frame
+{
+    border-radius: 10px !important;
+    min-height: 300px !important;
+    padding: 10px !important;
+    background-color: #ffffff !important;
+}
+
+.ordered-item-frame
+{
+    height: 100% !important;
+    border-radius: 10px !important;
+    background-color: white !important;
+}
+
+.detail-frame
+{
+    height: 100% !important;
+    border-radius: 10px !important;
+    background-color: white !important;
+}
+
+.padding-10
+{
+    padding: 10px !important;
+}
